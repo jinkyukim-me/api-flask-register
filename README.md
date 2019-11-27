@@ -1,2 +1,2 @@
 # api-flask-register
-flask mysql 회원가입
+Login System with Python Flask and MySQL
