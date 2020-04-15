@@ -9,7 +9,7 @@ app.secret_key='seocho30#'
 
 app.config['MYSQL_HOST'] = 'localhost'
 app.config['MYSQL_USER'] = 'root'
-app.config['MYSQL_PASSWORD'] = 'kaist30#'
+app.config['MYSQL_PASSWORD'] = ''
 app.config['MYSQL_DB'] = 'pythonlogin'
 
 mysql = MySQL(app)
